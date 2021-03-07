@@ -15,6 +15,9 @@ public class Test1 {
 	}
 		// TODO Auto-generated method stub
 
-
+	@Test
+	public void b2() {
+		System.out.println("Test1 b2");	
+	}
 
 }
