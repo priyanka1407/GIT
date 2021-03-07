@@ -13,4 +13,15 @@ public class Test2 {
 	public void d() {
 		System.out.println("Test2 d");	
 	}
+	
+	@Test
+	public void d2() {
+		System.out.println("Test2 d2");	
+	}
+	
+	@Test
+	public void d3() {
+		System.out.println("Test2 d2");	
+	}
+
 }
