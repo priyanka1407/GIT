@@ -13,7 +13,6 @@ public class Test1 {
 	public void b() {
 		System.out.println("Test1 b");	
 	}
-		// TODO Auto-generated method stub
 
 	@Test
 	public void b2() {
