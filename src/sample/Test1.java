@@ -18,5 +18,10 @@ public class Test1 {
 	public void b2() {
 		System.out.println("Test1 b2");	
 	}
+	
+	@Test
+	public void c2() {
+		System.out.println("Test1 b2");	
+	}
 
 }

@@ -28,5 +28,10 @@ public class Test2 {
 	public void e3() {
 		System.out.println("Test2 e2");	
 	}
+	
+	@Test
+	public void g3() {
+		System.out.println("Test2 e2");	
+	}
 
 }
