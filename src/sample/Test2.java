@@ -23,5 +23,10 @@ public class Test2 {
 	public void d3() {
 		System.out.println("Test2 d2");	
 	}
+	
+	@Test
+	public void e3() {
+		System.out.println("Test2 e2");	
+	}
 
 }
