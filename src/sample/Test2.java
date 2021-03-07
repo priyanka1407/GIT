@@ -7,6 +7,8 @@ public class Test2 {
 	@Test
 	public void c() {
 		System.out.println("Test2 c");	
+		System.out.println("Test2 c");	
+		System.out.println("Test2 c");	
 	}
 	
 	@Test
