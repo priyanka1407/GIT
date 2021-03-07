@@ -13,12 +13,18 @@ public class Test2 {
 	
 	@Test
 	public void d() {
-		System.out.println("Test2 d");	
+		System.out.println("Test2 d");
+		System.out.println("Test2 c");	
+		System.out.println("Test2 c");	
+
 	}
 	
 	@Test
 	public void d2() {
 		System.out.println("Test2 d2");	
+		System.out.println("Test2 c");	
+		System.out.println("Test2 c");	
+
 	}
 	
 	@Test
