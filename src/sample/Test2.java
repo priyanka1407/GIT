@@ -34,5 +34,12 @@ public class Test2 {
 		
 		
 	}
+	
+	@Test
+	public void architech() {
+		System.out.println("Test1 b");	
+	
+
+	}
 
 }

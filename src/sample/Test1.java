@@ -26,6 +26,13 @@ public class Test1 {
 		System.out.println("Test2 c");	
 
 	}
+	
+	@Test
+	public void architech() {
+		System.out.println("Test1 b");	
+	
+
+	}
 
 	
 }
