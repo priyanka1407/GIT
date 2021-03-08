@@ -18,6 +18,14 @@ public class Test1 {
 		System.out.println("Test2 c");	
 
 	}
+	
+	@Test
+	public void b2() {
+		System.out.println("Test1 b");	
+		System.out.println("Test2 c");	
+		System.out.println("Test2 c");	
+
+	}
 
 	
 }
